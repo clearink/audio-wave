@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/audio-wave/static/css/main.34d1a948.chunk.css",
+    "main.js": "/audio-wave/static/js/main.5474d120.chunk.js",
+    "main.js.map": "/audio-wave/static/js/main.5474d120.chunk.js.map",
+    "runtime-main.js": "/audio-wave/static/js/runtime-main.64e5a6b2.js",
+    "runtime-main.js.map": "/audio-wave/static/js/runtime-main.64e5a6b2.js.map",
+    "static/css/2.bb425fa0.chunk.css": "/audio-wave/static/css/2.bb425fa0.chunk.css",
+    "static/js/2.6cf1904d.chunk.js": "/audio-wave/static/js/2.6cf1904d.chunk.js",
+    "static/js/2.6cf1904d.chunk.js.map": "/audio-wave/static/js/2.6cf1904d.chunk.js.map",
+    "index.html": "/audio-wave/index.html",
+    "precache-manifest.712d5a4a38836d0e23b127fc2f04b433.js": "/audio-wave/precache-manifest.712d5a4a38836d0e23b127fc2f04b433.js",
+    "service-worker.js": "/audio-wave/service-worker.js",
+    "static/css/2.bb425fa0.chunk.css.map": "/audio-wave/static/css/2.bb425fa0.chunk.css.map",
+    "static/css/main.34d1a948.chunk.css.map": "/audio-wave/static/css/main.34d1a948.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64e5a6b2.js",
+    "static/css/2.bb425fa0.chunk.css",
+    "static/js/2.6cf1904d.chunk.js",
+    "static/css/main.34d1a948.chunk.css",
+    "static/js/main.5474d120.chunk.js"
+  ]
+}
