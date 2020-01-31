@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "20ade027a56ce7b7a973215efff81c65",
+    "revision": "69b9ce78a7cf00e1d3d83b057355da01",
     "url": "/audio-wave/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/audio-wave/static/css/2.bb425fa0.chunk.css"
   },
   {
-    "revision": "d3826d6ca257f02b65bf",
+    "revision": "a02bb5bd2d69b585534e",
     "url": "/audio-wave/static/css/main.34d1a948.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/audio-wave/static/js/2.6cf1904d.chunk.js"
   },
   {
-    "revision": "d3826d6ca257f02b65bf",
-    "url": "/audio-wave/static/js/main.5474d120.chunk.js"
+    "revision": "a02bb5bd2d69b585534e",
+    "url": "/audio-wave/static/js/main.aa51dcab.chunk.js"
   },
   {
     "revision": "331ec13f6dbf68fbbe80",
